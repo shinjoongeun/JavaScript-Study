@@ -25,7 +25,20 @@
     - Uncaught SyntaxError : Unexpected identifier
         식별자가 예상하지 못한 위치에서 등장했다는 오류
 
+    - Identifier has already declared
+        같은 이름으로 '상수'를 또 선언하려 할때 등장하는 오류
     
+    - Identifier has already been declared
+        같은 이름으로 '변수'를 또 선언하려 할 때 등장하는 오류
+    
+    - Missing initializer in const declaration
+        선언할 때 값을 지정하지 않은 경우
+    
+    - Assignment to constant variable
+        한번 선언된 상수를 변경하려고 할때 등장하는 오류
+    
+    - 
+
 =====================================================
 
 표현식(expression) 이란?
