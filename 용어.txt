@@ -82,3 +82,5 @@ prompt('message', 'defaultValue')
 string.split( separator, limit)
 // separator 에는 분할의 기준을 넣는다 예로 쉼표가 분할의 기주이 될때 (',')
     limit 는 최대 분할 개수를 정한다 (선택사항)
+
+=================================================================
