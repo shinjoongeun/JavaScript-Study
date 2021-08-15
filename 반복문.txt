@@ -1,0 +1,14 @@
+for in 반복문 (배열 요소를 하나하나 꺼네서 특정 문자를 실행할 때 사용)
+    문법
+    for (const 반복 변수 in 배열 또는 객체) {
+        문장
+    }
+
+    ex)
+    <script>
+        const todos = ['할일 1', '할일 2', '할일 3']
+
+        for (const i in todos) {
+            console.log(`${i}번째 할 일:${todo[i]}`)
+        }
+    </script>
